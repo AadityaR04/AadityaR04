@@ -2,7 +2,7 @@ Hi! I am Aaditya Rudra. Welcome to my GitHub! :wave:
 
 ## About Me:
 
-* I am a student in Visvesvaraya National Institute of Technology, Nagpur 2020 Batch.
+* I am a student in Visvesvaraya National Institute of Technology, Nagpur from the tear 2020.
 * I am currently pursuing a B-Tech in Electrical and Electronics.
 * Being a student, I am learning a lot of new concepts and topics and have much more to learn along the way!
 
