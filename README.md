@@ -1,4 +1,5 @@
 Hi! I am Aaditya Rudra. Welcome to my GitHub! :wave:
+<p align="left"> <img   src="https://komarev.com/ghpvc/?username=AadityaR04&color=ff69b4&&style=plastic" alt="adi10hero" /> </p>
 
 ## About Me:
 
