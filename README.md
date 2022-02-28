@@ -14,11 +14,11 @@ Hope you have a nice time wandering in my GitHub! 🙌
 
 ---
 <h2 align="left"> Github Statistics 📈 </h2>
-<div align="left"> 
-<a href=""><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AadityaR04&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=28" /></a></div>
+<p align="left"> 
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AadityaR04&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=20" /></p>
 
 <h2 align="left">Top languages</h2>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaR04&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Languages" width="450" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaR04&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Languages" width="350" /></p>
 <br><br>
 
 <h2 align="center"> 🤝🏻 Connect with Me 📫 </h2>
