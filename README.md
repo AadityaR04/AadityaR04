@@ -3,12 +3,11 @@ Hi! I am Aaditya Rudra. Welcome to my GitHub! :wave:
 
 ## About Me:
 
-* 🔭 I am a student in [Visvesvaraya National Institute of Technology, Nagpur](https://vnit.ac.in/) from the year 2020.
-* 📖 I am currently pursuing a B-Tech in Electrical and Electronics.
-* 🤖 I am currently a member of [IvLabs](https://www.ivlabs.in/), an AI and Robotics community
-* 🌱 I am interested in Theoretical Physics, Quantum Mechanics, Quantum Computing, Mathematics, Machine Learning and Computer Vision and am still exploring and learning more each day!
-* 📫 If you ever want to get in touch for any literature, scientific or creative discussions, or want to know more about me, you can find me here in my [mailbox](mailto:adityarudra02@gmail.com) or here on my [Linkedin](linkedin.com/in/aaditya-rudra-a2726321b)
-* 🤗 Feel free to reach out for any collaborations!
+* 🔭 I did my Bachelor of Technology (B.Tech.) in Electrical and Electronics Engineering at Visvesvaraya National Institute of Technology, Nagpur, India (2020-2024).
+* 📖 I am currently pursuing my Master of Science (M.Sc.) in Quantum Science and Technology at Friedrich Schiller University, Jena, Germany (from 2026).
+* 🌱 I am interested in Quantum Optics, Photonics, Theoretical Physics, Quantum Computing, Control Systems, Mathematics and Machine Learning and am still exploring and learning more each day!
+* 📫 If you ever want to get in touch for any literature, scientific or creative discussions, or want to know more about me, you can reach me out on my [Linkedin](linkedin.com/in/aaditya-rudra-a2726321b)
+* 🤗 Feel free to reach out for any discussions!
 
 Hope you have a nice time wandering in my GitHub! 🙌
 
